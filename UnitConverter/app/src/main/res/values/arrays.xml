@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="conversion_modes">
+        <item>Meter to Inch</item>
+        <item>Inch to Meter</item>
+        <item>Celsius to Fahrenheit</item>
+        <item>Fahrenheit to Celsius</item>
+        <item>Centimeter to Inch</item>
+        <item>Inch to Centimeter</item>
+    </string-array>
+</resources>
