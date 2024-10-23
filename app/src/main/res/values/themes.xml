@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<<<<<<< HEAD
+    <style name="Theme.UnitConverter" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+</resources>
+=======
+
+    <style name="Theme.SpiritLevel" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
+>>>>>>> e541fc0b13f88ef41a3e74689b411eb450d95e50
