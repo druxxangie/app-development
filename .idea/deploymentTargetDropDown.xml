@@ -4,6 +4,7 @@
     <value>
       <entry key="app">
         <State>
+<<<<<<< HEAD
           <targetSelectedWithDropDown>
             <Target>
               <type value="QUICK_BOOT_TARGET" />
@@ -16,6 +17,20 @@
             </Target>
           </targetSelectedWithDropDown>
           <timeTargetWasSelectedWithDropDown value="2024-05-14T13:06:52.987044Z" />
+=======
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="34360713440018R" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-06-11T16:51:03.429912Z" />
+>>>>>>> e541fc0b13f88ef41a3e74689b411eb450d95e50
         </State>
       </entry>
     </value>
