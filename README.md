@@ -14,5 +14,4 @@ The app utilizes the device's accelerometer to function as a spirit level, displ
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/druxxangie/SpiritLevel.git
-
+  
